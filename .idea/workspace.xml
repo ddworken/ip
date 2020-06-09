@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6550567-3dbe-4754-918e-4463ea5253b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Main.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../startup.py" beforeDir="false" />
-    </list>
+    <list default="true" id="b6550567-3dbe-4754-918e-4463ea5253b1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +45,8 @@
     <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
       <option name="JAR_PATH" value="$PROJECT_DIR$/../Main.jar" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="14" />
       <method v="2" />
     </configuration>
     <configuration name="startup" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -92,6 +90,7 @@
       <workItem from="1591655762415" duration="60000" />
       <workItem from="1591655838803" duration="140000" />
       <workItem from="1591661324510" duration="38000" />
+      <workItem from="1591661807590" duration="37000" />
     </task>
     <servers />
   </component>
@@ -103,18 +102,18 @@
       <screen x="0" y="27" width="1280" height="693" />
     </state>
     <state x="238" y="20" width="800" height="700" key="#Plugins/0.27.1280.693@0.27.1280.693" timestamp="1591655821938" />
-    <state x="102" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591661359968">
+    <state x="102" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591661842665">
       <screen x="0" y="27" width="1280" height="693" />
     </state>
-    <state x="102" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1280.693@0.27.1280.693" timestamp="1591661359968" />
+    <state x="102" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1280.693@0.27.1280.693" timestamp="1591661842665" />
     <state x="426" y="104" width="424" height="498" key="FileChooserDialogImpl" timestamp="1591661355703">
       <screen x="0" y="27" width="1280" height="693" />
     </state>
     <state x="426" y="104" width="424" height="498" key="FileChooserDialogImpl/0.27.1280.693@0.27.1280.693" timestamp="1591661355703" />
-    <state x="124" y="20" key="SettingsEditor" timestamp="1591661361983">
+    <state x="124" y="20" key="SettingsEditor" timestamp="1591661844034">
       <screen x="0" y="27" width="1280" height="693" />
     </state>
-    <state x="124" y="20" key="SettingsEditor/0.27.1280.693@0.27.1280.693" timestamp="1591661361983" />
+    <state x="124" y="20" key="SettingsEditor/0.27.1280.693@0.27.1280.693" timestamp="1591661844034" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/_$startup.coverage" NAME="startup Coverage Results" MODIFIED="1591661324791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
